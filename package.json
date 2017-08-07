@@ -1,0 +1,23 @@
+{
+  "name": "js_led_processor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "GPIO_library": "git+https://github.com/prerakrustagi/db_410c_gpio_js.git",
+    "Character_library": "git+https://github.com/prerakrustagi/Character-Library.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prerakrustagi/js_led_processor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prerakrustagi/js_led_processor/issues"
+  },
+  "homepage": "https://github.com/prerakrustagi/js_led_processor#readme"
+}
